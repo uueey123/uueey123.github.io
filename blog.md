@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 博客
-subtitle: 选择uueey123的模型收藏类型
+subtitle: 日常笔记
 ---
 
 <div>
