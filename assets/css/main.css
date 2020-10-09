@@ -3,7 +3,7 @@
   body {
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
-    color: #FFF;
+    color: rgb(0, 0, 0);
     background-color: #FFF; 
     background-image: url(/assets/img/timg\ \(1\).jpg);
     background-repeat: no-repeat;
@@ -64,11 +64,11 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #c71c1c;
     display: block; }
 
   .menu {
-    color: #828282;
+    color: #3a3c3d;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
