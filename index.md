@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="/assets/img/B3B9CB3A784618628715501020D0CAEC.jpg" id="about-img">
+<img src="/assets/img/AA46157ACF171F68B614930D2DD79A04.jpg" id="about-img">
 
 <div id="describe-text">
 	<p>同志你好，这里是暗影卫队</p>
