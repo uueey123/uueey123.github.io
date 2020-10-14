@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>同志你好，这里是暗影卫队</p>
-	<p>不用担心乳主问题，因为 <strong>大主教</strong>正在重新集结部队</p>
+	<p>不用担心乳主问题，因为 <strong>大主教</strong> 正在重新集结部队</p>
 </div>
