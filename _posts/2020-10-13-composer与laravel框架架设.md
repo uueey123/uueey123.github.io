@@ -27,7 +27,7 @@ categories: ['框架基础']
 
 ## Laravel
 - 当composer下载并更新完毕后，执行以下代码    
-    - composer create-project --prefer-dist laravel/laravel blog
+    - composer create-project --prefer-dist laravel/laravel blog "5.5.*"
         - 以composer下载laraverl并且在目标文件夹创建一个叫做blog的文件夹
 
 
